@@ -5,6 +5,10 @@
      alt="Crop Monitoring"
      class="project-image">
 
+<img src="crop_monitoring_system.jpg"
+     alt="Crop Monitoring"
+     class="project-image">
+
 A fully automated cloud-based crop monitoring system designed to provide real-time information about important environmental conditions affecting crops. The system uses an ESP32 to collect sensor data and makes the information accessible remotely through an internet connection.
 
 ## 🚀 Project Overview
